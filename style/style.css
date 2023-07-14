@@ -44,6 +44,15 @@ button{
     color: white;
 }
 
+footer{
+   padding-top: 90px;
+   text-align: center;
+   color: rgb(151, 150, 150);
+}
+footer p{
+    font-size: 18px;
+}
+
 @media screen and (max-width:576px) {
     .container{
         flex-direction: column;
